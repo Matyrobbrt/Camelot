@@ -1,13 +1,8 @@
 - content: "Invite: abcbcbc"
-  author:
-    name: The NeoForged Project
-    avatar: https://cdn.discordapp.com/avatars/1147223290784530513/f16a6ae6a4fbf4125fea9f985648d964.png
 - embeds:
-    - title: Rule 1. Do not be a bad person!
-      description: don't be bad
-    - title: Rule 2. hi!!!
-      description: something something
-      color: 0xff56ff
-  author:
-    name: The NeoForged Project
-    avatar: https://cdn.discordapp.com/avatars/1147223290784530513/f16a6ae6a4fbf4125fea9f985648d964.png
+  - title: Rule 1. Do not be a bad person!
+    description: don't be bad
+    color: '#F3CACA'
+  - title: Rule 2. hi!!!
+    description: something something
+    color: '#FF56FF'
