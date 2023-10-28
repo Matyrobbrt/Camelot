@@ -11,22 +11,36 @@
     description: |-
       Modding questions and/or requests will *not* be answered in DMs.
       Make sure to ask people (preferably with a ping) before DMing them or sending them a friend request.
-    color: '#FFFFFF'
+    color: '#AC7EEC'
   - title: Rule 2. No spamming
     description: "This includes emojis, GIFs, many single word messages or advertisements."
-    color: '#FFFFFF'
+    color: '#0DE208'
   - title: Rule 3. Please keep the channel topic in mind
     description: "We understand that staying on topic is hard, but please at least\
       \ try. There is lenience, but don't push it."
-    color: '#FFFFFF'
+    color: '#F0EEC4'
   - title: Rule 4. Don't be a dick
     description: |-
       This includes pinging people that explicitly do not want to be pinged unnecessarily.
       Do not insult people. Racism, transphobia or any form of bigotry will not be tolerated.
-    color: '#FFFFFF'
+    color: '#F2E6EB'
   - title: Rule 5. Do not promote or participate in illegal activities
     description: Neither piracy nor scam are tolerated in this server.
-    color: '#FFFFFF'
+    color: '#9486E5'
   - title: Rule 6.  Do not send content that is hateful or sexually explicit
     description: This is not a NSFW server.
-    color: '#FFFFFF'
+    color: '#839ADB'
+- content: _​_
+  author:
+    name: The NeoForged Project
+    avatar: https://cdn.discordapp.com/avatars/1167802516726087721/f16a6ae6a4fbf4125fea9f985648d964.png
+  embeds:
+  - title: Moderation Policy
+    description: |-
+      We operate a 3 strikes policy. Rule violations (listed above) can trigger these actions.
+      1. Strike one will result in an in channel warning stating which rule you violated
+      2. Strike two will result in a ten-minute timeout
+      3. Strike three will result in a ban or read-only purgatory
+
+      *Note that significant enough violations will lead to one or more of these steps being skipped.*
+    color: '#D59C9C'
