@@ -6,3 +6,12 @@
   - title: Rule 2. hi!!!
     description: something something
     color: '#FF56FF'
+- content: How look at the following rules
+  embeds:
+  - title: Rule 3. Do you really want to do it?
+    description: Don't.
+    color: '#FFFFFF'
+    fields:
+    - name: But
+      value: if you insist
+      inline: true
